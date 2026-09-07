@@ -36,3 +36,19 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Environment & Secrets ###
+.env
+.env.local
+application-local.yml
+application-secrets.yml
+*.pem
+*.key
+
+### Logs ###
+*.log
+logs/
+spring.log
+
+### Spring Boot generated boilerplate ###
+HELP.md

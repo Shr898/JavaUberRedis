@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25bdc57b-2fe8-4086-9bdb-404497c76997" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locationservice/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locationservice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locationservice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locationservice/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locationservice/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locationservice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locationservice/src/main/java/com/uberrideshare/locationservice/LocationserviceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locationservice/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locationservice/src/test/java/com/uberrideshare/locationservice/LocationserviceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchinguberservice/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchinguberservice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchinguberservice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchinguberservice/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchinguberservice/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchinguberservice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchinguberservice/src/main/java/com/uberrideshare/matchinguberservice/MatchinguberserviceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchinguberservice/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchinguberservice/src/test/java/com/uberrideshare/matchinguberservice/MatchinguberserviceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rideuberservice/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rideuberservice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rideuberservice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rideuberservice/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rideuberservice/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rideuberservice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rideuberservice/src/main/java/com/uberrideshare/rideuberservice/RideuberserviceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rideuberservice/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rideuberservice/src/test/java/com/uberrideshare/rideuberservice/RideuberserviceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaRedisUberProject/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Shr898"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Shr898/JavaUberRedis.git",
+    "accountId": "11b5910b-e341-40bb-84eb-8bc952d487dd"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3IzqASs5xHAC8c3ug26SaEoMtDT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/shreyas/coding/JavaProjects/JavaUberRedis/rideuberservice",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0672495",
+    "project.structure.side.proportion": "0.072150074",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25bdc57b-2fe8-4086-9bdb-404497c76997" name="Changes" comment="" />
+      <created>1788777602252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788777602252</updated>
+    </task>
+    <servers />
+  </component>
+</project>
